@@ -1,0 +1,9 @@
+{
+  "name": "Minute Log",
+  "short_name": "Minute Log",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#ffffff",
+  "icons": []
+}
